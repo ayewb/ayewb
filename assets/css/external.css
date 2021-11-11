@@ -1,0 +1,149 @@
+.front {
+  background-color: white;
+    text-decoration: none;
+    color: #7A67EE;
+    position: absolute;
+    bottom; 20px;
+    right: 50px;
+}
+.back {
+  background-color: white;
+    text-decoration: none;
+    color: #008080;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+* {
+    font-family: ComicSansMS;
+}
+.lyric {
+    color: white;
+    width: 115px;
+    position:absolute;
+    left: 760px;
+    top: 350px;
+}
+.lyric2 {
+    font-size: 20px;
+    color: #736357;
+    width: 585px;
+    position: absolute;
+    top: 280px;
+    left: 130px;
+}
+.lyric3 {
+    font-size: 50px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    right: 50px;
+}
+.box1 {
+    position: absolute;
+    right: 50px;
+    top: 150px;
+}
+.box2 {
+    background-color: #003F87;
+    position: absolute;
+    right: 50px;
+    top: 245px;
+}
+#lyric4 {
+    color: white;
+    font-size: 20px;
+    width: 185px;
+    position: absolute;
+    bottom: 50px;
+    left: 450px;
+}
+.lyric5 {
+    color: black;
+    width: 65px;
+    position: absolute;
+    bottom: 115px;
+    left: 50px;
+}
+.lyrics5 {
+    color: black;
+    width: 50px;
+    position: absolute;
+    bottom: 40px;
+    left: 160px;
+}
+.lyric6 {
+    font-size: 50px;
+
+    color: white;
+    position: absolute;
+    left: 50px;
+    bottom: 180px;
+}
+.lyric7 {
+    font-size: 35px;
+    color: #05B8CC;
+}
+.lyric8 {
+    font-size: 35px;
+    color: #3B8471;
+    position: absolute;
+    background-color: white;
+    bottom: 50px;
+    left: 50px;
+}
+#lyrics8 {
+    font-size: 170px;
+    color: #3B8471;
+    position: absolute;
+    background-color: #3B8471;
+    bottom: -85px;
+    left: 150px;
+}
+#lyrics8:hover {
+    background-color: white
+}
+.lyric9 {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    right: 290px;
+    bottom: 250px;
+}
+#lyric10 {
+    font-size: 35px;
+    background-color: white;
+    color: #736357;
+    position: absolute;
+    text-align: center;
+    left: 575px;
+    bottom: 60px;
+}
+.lyric11 {
+    position: absolute;
+    bottom: 35px;
+    background-color: white;
+    color: #45C3B8;
+}
+#lyrics11{
+    font-size: 300px;
+    background-color: white;
+    color: #45C3B8;
+    position: absolute;
+    bottom: -300px;
+    left: 220px;
+}
+.animate__animated animate__bounceInDown animate__infinite {
+    font-size: 300px;
+    color: #45C3B8;
+    position: absolute;
+    bottom: -300px;
+    left: 300px;
+}
+#video{
+    position: absolute;
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+
+}
